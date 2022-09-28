@@ -12,7 +12,7 @@ RiServiceFill
 const Nav = () => {
   return (
     <nav>
-      <a href="#">
+      <a href="#" className='active'>
         <AiOutlineHome />
       </a>
       <a href="#about">

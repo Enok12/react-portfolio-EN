@@ -8,6 +8,7 @@ import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/Footer'
 
 import './index.css'
+import Services from './components/Services/Services'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
       <Nav />
       <About />
       <Experience />
+      <Services />
       <Portfolio />
       <Testimonials />
       <Contact />

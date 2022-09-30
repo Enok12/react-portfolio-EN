@@ -9,8 +9,13 @@ import Footer from './components/Footer/Footer'
 
 import './index.css'
 import Services from './components/Services/Services'
+import { useEffect } from 'react'
 
 function App() {
+
+  useEffect(() => {
+    document.title = 'Enok Dilshan Portfolio';
+  });
 
   return (
      <>

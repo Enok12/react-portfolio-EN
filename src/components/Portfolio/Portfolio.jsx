@@ -39,7 +39,7 @@ const data = [
   {
     id: 5,
     image: IMG2,
-    title: 'Employee Management System (Java)',
+    title: 'My Bags Frontend Project (React, Material UI)',
     github: 'https//github.com',
     demo: ''
   },

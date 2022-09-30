@@ -52,12 +52,20 @@ const backend_data = [
     experience: "Experienced"
   },
   {
+    name: "Express",
+    experience: "Intermediate"
+  },
+  {
     name: "MySQL",
     experience: "Experienced"
   },
   {
     name: "SQL",
     experience: "Experienced"
+  },
+  {
+    name: "MongoDB",
+    experience: "Intermediate"
   },
   {
     name: "Java",
